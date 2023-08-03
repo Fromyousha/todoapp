@@ -1,0 +1,16 @@
+.shocas{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+body{
+    background-color: black;
+    color: yellow;
+}
+button{
+    border: 1px solid black;
+    border-radius: 3px;
+    background-color: yellow;
+}
